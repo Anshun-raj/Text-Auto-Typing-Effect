@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.raj {
+    height: 100vh;
+    background-color: grey;
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.raj h1 {
+    font-size: 60px;
+    font-weight: 500;
+}
+
+span {
+    color: yellow;
+}
